@@ -181,7 +181,7 @@ nav li {
     max-width: 1200px;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: .3fr 0.05fr .5fr 1fr 0.1fr;
+    grid-template-rows: .2fr 0.05fr .5fr 1fr 0.1fr;
     gap: 10px 10px;
     grid-auto-flow: row;
     grid-template-areas:
@@ -191,14 +191,14 @@ nav li {
     "main2 main3"
     "footer footer";
 }
-#template-team-merc {  
+/* #template-team-merc {  
     font-family: Verdana, Arial, sans-serif;
     width: 100%;
     margin: auto;
     max-width: 1200px;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: .3fr 0.05fr .5fr 1fr 0.1fr;
+    grid-template-rows: .2fr 0.05fr .5fr 1fr 0.1fr;
     gap: 10px 10px;
     grid-auto-flow: row;
     grid-template-areas:
@@ -207,5 +207,5 @@ nav li {
     "main1 main1"
     "main2 main3"
     "footer footer";
-}
+} */
 }
