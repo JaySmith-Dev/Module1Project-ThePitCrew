@@ -108,7 +108,7 @@ table, th, td {
     max-width: 600px;
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: .35fr 0.1fr .5fr .5fr .5fr 0.1fr;
+    grid-template-rows: .28fr 0.1fr .5fr .5fr .5fr 0.1fr;
     gap: 10px 10px;
     grid-auto-flow: row;
     grid-template-areas:
@@ -181,7 +181,7 @@ nav li {
     max-width: 1200px;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: .4fr 0.05fr .5fr 1fr 0.2fr;
+    grid-template-rows: .4fr 0.05fr .5fr 1fr 0.1fr;
     gap: 10px 10px;
     grid-auto-flow: row;
     grid-template-areas:
